@@ -24,5 +24,3 @@ The dataset contains over **11,000 retail transactions** including customer demo
 - Customers aged **26–35 years** contributed the highest purchases.
 - Top-performing states: **Uttar Pradesh, Maharashtra, Karnataka**.
 - Most popular product categories: **Food, Clothing, Electronics**.
-
-## Project Structure
